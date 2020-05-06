@@ -13,7 +13,7 @@
       }
     },
     methods: {
-      show(msg = 'hello world', duration = 1000) {
+      show(msg = 'hello world', duration = 3000) {
         this.isShow = true
         this.message = msg
         setTimeout(() => {

@@ -36,7 +36,10 @@ import { mapState, mapGetters, mapActions } from 'vuex'
     },
     methods: {
       clearCart() {
-        this.clearCartlist()
+        this.$confirm.show('确认清空购物车吗？',() => {
+            this.clearCartlist()
+            return
+          })
       },
       ...mapActions(['clearCartlist'])
     }

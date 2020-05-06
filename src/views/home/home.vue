@@ -1,7 +1,7 @@
 <template>
   <div class="home">
       <y-header ref="header">
-        <div slot="center">购物街</div>
+        <div slot="center">糖果屋</div>
       </y-header>
       <tab-menu ref="tabMenu2" class="fixed" v-show="isScrollTop" :menuList="['流行','新款','精选']" @getMenuIndex="getMenuIndex"/>
       <scroll 
