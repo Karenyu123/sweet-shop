@@ -30,29 +30,29 @@
 
 ​	首页
 
-<img src="https://i.loli.net/2020/05/06/kbf8ZxHCQjtG2z4.png" alt="home.png" style="width:375px" />
+<img src="https://i.loli.net/2020/05/06/kbf8ZxHCQjtG2z4.png" alt="home.png" width = "300"  div align=center />
 
 商品列表
 
-<img src="https://i.loli.net/2020/05/06/TFwj2f9xi3Om8GL.png" alt="goodslist.png" style="width:375px" />
+<img src="https://i.loli.net/2020/05/06/TFwj2f9xi3Om8GL.png" alt="goodslist.png" width = "300"  div align=center />
 
 商品详情
 
-<img src="https://i.loli.net/2020/05/06/5GeLInlojCA7KRq.png" alt="detail.png" style="width:375px" />
+<img src="https://i.loli.net/2020/05/06/5GeLInlojCA7KRq.png" alt="detail.png" width = "300"  div align=center />
 
 商品评论
 
-<img src="https://i.loli.net/2020/05/06/BIbTtrXE9hR7Hq4.png" alt="comment.png" style="width:375px" />
+<img src="https://i.loli.net/2020/05/06/BIbTtrXE9hR7Hq4.png" alt="comment.png" width = "300"  div align=center />
 
 商品分类
 
-<img src="https://i.loli.net/2020/05/06/HAcLWXQRYUBwNsT.png" alt="category.png" style="width:375px" />
+<img src="https://i.loli.net/2020/05/06/HAcLWXQRYUBwNsT.png" alt="category.png" width = "300"  div align=center />
 
 
 
 购物车
 
-<img src="https://i.loli.net/2020/05/06/klv9x5EAgytXwCO.png" alt="cart.png" style="width:375px" />
+<img src="https://i.loli.net/2020/05/06/klv9x5EAgytXwCO.png" alt="cart.png" width = "300"  div align=center />
 
 ## Project setup
 
